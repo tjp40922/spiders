@@ -15,3 +15,5 @@ class Connect_Mongo(object):
 
 
 mongo=Connect_Mongo()
+
+#小乌龟测试
